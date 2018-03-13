@@ -1,7 +1,7 @@
 # Branding
 ![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
 
-En este repositorio se encuentran todos los diseños e imágenes que hemos usado en The Open Bacteria Project, así como ciertos archivos con gu´ñias básicas para el uso de éstos.
+En este repositorio se encuentran todos los diseños e imágenes que hemos usado en The Open Bacteria Project, así como ciertos archivos con guías básicas para el uso de éstos.
 ## Directorios
 
 * *Basics* contiene información de uso, archivos y guías básicas para el branding y el diseño.
