@@ -1,7 +1,7 @@
 # Branding
 ![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
 
-In this repository we are going to keep images, several designs and brand stuff for this project,
+In this repository we are going to keep images, several designs and brand stuff for this project.
 
 ## Folders
 
