@@ -1,3 +1,5 @@
 #FFFFFF - White
 #00A49D - Aquamarine
+#008080 - Teal
 #EF9C00 - Orange
+#FFC300 - LightOrange
