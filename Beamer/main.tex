@@ -1,0 +1,60 @@
+\documentclass[10pt, compress]{beamer}
+
+\usetheme{m}
+
+\usepackage{booktabs}
+\usepackage[scale=2]{ccicons}
+\usepackage{minted}
+
+\usemintedstyle{trac}
+
+\title{Title}
+\subtitle{}
+\date{\today}
+\author{The Open Bacteria Project}
+\institute{\begin{center}\includegraphics[width=0.3\textwidth,height=.3\textheight]{images/Logo.png}\end{center}}
+
+\begin{document}
+
+\maketitle
+
+%Basic frame
+\begin{frame}[fragile]
+  \frametitle{Frame title}
+  This is an example frame.
+\end{frame}
+
+%Generates aframe only with Section title
+\section{Section}
+
+\begin{frame}[fragile]
+    \frametitle{Typography}
+        The theme provides sensible defaults to \emph{emphasis} text, \alert{accent} parts or show \textbf{bold} results.
+\end{frame}
+
+%Dark backgroung
+\plain{Frame title}{\vspace{-2em}\begin{center}\includegraphics[width=\textwidth]{images/HeaderTW.jpg}\end{center}}
+
+%License frame
+\begin{frame}{License}
+    
+    This theme is avaible at:
+    
+    \begin{center}\url{github.com/theopenbacteriaproject/branding}\end{center}
+    
+    And is based on a theme provided by:
+
+    \begin{center}\url{github.com/matze/mtheme}\end{center}
+
+  The theme itself is licensed under a
+  \href{http://creativecommons.org/licenses/by-sa/4.0/}{Creative Commons
+  Attribution-ShareAlike 4.0 International License}.
+
+  \begin{center}\ccbysa\end{center}
+
+\end{frame}
+
+%For plain frames
+\plain{}{Questions?}
+
+\end{document}
