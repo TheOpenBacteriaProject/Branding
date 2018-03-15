@@ -9,4 +9,4 @@ In this repository we are going to keep images, several designs and brand stuff 
 * *Documentation-Media* contains media to use it on documentation.
 * *Social-Media* contains media to use it on social media and networking.
 * *logo* contains diferent versions of The Open Bateria Project logo.
-* *Twitter-Network* contains our twitter followers network
+* *Twitter-Network* contains our Twitter followers network.
