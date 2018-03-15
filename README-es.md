@@ -8,3 +8,4 @@ En este repositorio se encuentran todos los diseños e imágenes que hemos usado
 * *Documentation-Media* contiene los archivos para usar en la documentación científica.
 * *Social-Media* contiene los archivos e imágenes que se han usado o se usarán en las redes sociales.
 * *logo* contiene las diferentes versiones del logo de The Open Bacteria Project.
+* *Twitter-Network* contiene nuestra red de seguidores de Twitter.
